@@ -8,6 +8,11 @@ After it creates the .mkv file, it will rename the movie folder *(not the .mkv f
 
 **It was mainly made for the rarbg movies file structure** <br>
 
+## Dependencies:
+```
+sudo apt-get update && sudo apt-get install mkvtoolnix
+```
+
 ## Instructions:
 
 Make sure you run this script in the same directory where you have your rarbg movie folders and just wait for those 200 movies to be automatically turned into mkv files. <br>
